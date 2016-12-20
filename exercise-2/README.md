@@ -8,6 +8,7 @@ See `complete` branch for answers.
 
 ##classes - imaginary, because I'm not taking any currently
 **Course** | _Title_ | Instructor
+--- | --- | ---
 **EVE100** | _Introduction to Evolution_ | Ramirez
 **BIS2B** | _Biology Series_ | Schmitt
 **PBG200** | _Principles of Population Biology_ | various
